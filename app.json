@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "⛅️ 날씨 정보: Open weather API\n📞 Http 통신: Axios 라이브러리 (node.js와 브라우저를 위한 http통신 javascript 라이브러리)\n👍 날씨 아이콘: Expo vector-icons",
+    "githubUrl": "https://github.com/glowthem/Awesome-weather"
   }
 }
